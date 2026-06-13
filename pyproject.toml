@@ -1,0 +1,16 @@
+# pyproject.toml
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "IBSynth"
+version = "0.0.1"
+authors = [
+  { name="Christian Rasmussen", email="crasmus000@citymail.cuny.edu" },
+]
+description = "Layer-based synthesis algorithm which also leverages ML"
+
+[tool.setuptools]
+packages = ["IBSynth"]

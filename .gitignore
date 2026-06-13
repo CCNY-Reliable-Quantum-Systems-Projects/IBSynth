@@ -1,0 +1,9 @@
+__pycache__
+circuits
+data
+*.egg-info
+.vscode
+
+# any helper scripts used for debugging/internal
+/*.py 
+/*.ipynb
