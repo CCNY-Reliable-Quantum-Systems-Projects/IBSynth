@@ -1,8 +1,8 @@
 __pycache__
-circuits
 data
 *.egg-info
 .vscode
+dump
 
 # any helper scripts used for debugging/internal
 /*.py 
